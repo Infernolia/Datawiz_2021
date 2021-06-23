@@ -4,29 +4,29 @@ Kaggle Competition hosted as a part of Credenz 2021
 
 Contributors:
 
-Ayush Das
-Aboli Marathe
-Rohit James
-Srujana
-Anupam
-Tanuj 
-Pushkar
-Siddharth Bora
-Rohit Patil
-Shrikrushna Zirape
-Shreya Pujari
-Anurag Kelkar
-Rohan Khole
-Amaan Naikwadi
-Megha Dandapat
-Ashwaq Khazi
-Neil Deshpande
-Kirti Palve
-Malhaar Karandikar
-Saima Ansari
-Suyash More
-Sufiya Sayyed
-Karan Lakhwani
-Raghavendra Kharosekar
-Ambya
-Shubham Chaudhary
+Ayush Das <BR>
+Aboli Marathe<BR>
+Rohit James<BR>
+Srujana<BR>
+Anupam<BR>
+Tanuj <BR>
+Pushkar<BR>
+Siddharth Bora<BR>
+Rohit Patil<BR>
+Shrikrushna Zirape<BR>
+Shreya Pujari<BR>
+Anurag Kelkar<BR>
+Rohan Khole<BR>
+Amaan Naikwadi<BR>
+Megha Dandapat<BR>
+Ashwaq Khazi<BR>
+Neil Deshpande<BR>
+Kirti Palve<BR>
+Malhaar Karandikar<BR>
+Saima Ansari<BR>
+Suyash More<BR>
+Sufiya Sayyed<BR>
+Karan Lakhwani<BR>
+Raghavendra Kharosekar<BR>
+Ambya<BR>
+Shubham Chaudhary<BR>
