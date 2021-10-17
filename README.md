@@ -3,7 +3,6 @@ Kaggle Competition hosted as a part of Credenz 2021
 
 
 Contributors:
-
 Ayush Das <BR>
 Aboli Marathe<BR>
 Rohit James<BR>
